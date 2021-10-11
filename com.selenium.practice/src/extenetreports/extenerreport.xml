@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="test">
+
+<listeners>
+
+
+<listener class-name="extent_base.Extentreport_base"/>
+
+
+</listeners>
+
+
+<test name="extent reports">
+<classes>
+<class name="extenetreports.Extentreport"/>
+</classes>
+
+
+</test>
+
+
+</suite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [paramone_testsuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="paramone_testname(failed)">
+    <parameter name="xpath" value="Dresses kids"/>
+    <classes>
+      <class name="params_All.Param_One">
+        <methods>
+          <include name="stop"/>
+          <include name="start"/>
+          <include name="setup" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- params_All.Param_One -->
+    </classes>
+  </test> <!-- paramone_testname(failed) -->
+</suite> <!-- Failed suite [paramone_testsuite] -->

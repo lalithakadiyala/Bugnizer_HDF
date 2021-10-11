@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;org&apos; to &apos;Mypractice_Opencart&apos;" description="Rename resource &apos;org&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/org" name="Mypractice_Opencart" stamp="1624318706248" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.selenium.practice.TestNG.Opencart_POM&apos; to &apos;Loginpage_POM&apos;&#x0A;- Original project: &apos;com.selenium.practice&apos;&#x0A;- Original element: &apos;com.selenium.practice.TestNG.Opencart_POM&apos;&#x0A;- Renamed element: &apos;com.selenium.practice.TestNG.Loginpage_POM&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Opencart_POM&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.selenium.practice.TestNG{Opencart_POM.java[Opencart_POM" matchStrategy="1" name="Loginpage_POM" qualified="false" references="true" similarDeclarations="false" stamp="1623216380427" textual="false" version="1.0"/>
+</session>

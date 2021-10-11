@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-11T14:00:14 PDT" name="Default suite" finished-at="2021-10-11T14:00:38 PDT" duration-ms="23608">
+    <groups>
+    </groups>
+    <test started-at="2021-10-11T14:00:14 PDT" name="Default test" finished-at="2021-10-11T14:00:38 PDT" duration-ms="23608">
+      <class name="pageObjects.Buganizer_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pageObjects.Buganizer_Test@1534f01b]" started-at="2021-10-11T14:00:14 PDT" name="setup" finished-at="2021-10-11T14:00:32 PDT" duration-ms="17318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ch()[pri:1, instance:pageObjects.Buganizer_Test@1534f01b]" started-at="2021-10-11T14:00:32 PDT" name="ch" finished-at="2021-10-11T14:00:35 PDT" duration-ms="3395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ch -->
+        <test-method signature="ch1()[pri:2, instance:pageObjects.Buganizer_Test@1534f01b]" started-at="2021-10-11T14:00:35 PDT" name="ch1" finished-at="2021-10-11T14:00:38 PDT" duration-ms="2790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ch1 -->
+        <test-method signature="ch2()[pri:3, instance:pageObjects.Buganizer_Test@1534f01b]" started-at="2021-10-11T14:00:38 PDT" name="ch2" finished-at="2021-10-11T14:00:38 PDT" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ch2 -->
+      </class> <!-- pageObjects.Buganizer_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Group2_suite">
+<listeners>
+<listener class-name="extent_base.Extentreport_base"/>
+</listeners>
+
+<test name="Group2_test">
+
+<classes>
+<class name="Group1.Group2Method"/>
+
+</classes>
+</test>
+
+</suite>

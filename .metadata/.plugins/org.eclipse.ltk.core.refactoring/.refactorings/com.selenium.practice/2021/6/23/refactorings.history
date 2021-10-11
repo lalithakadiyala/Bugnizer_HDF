@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;com.selenium.practice/src/pom/NewFile.xml&apos; to &apos;POM_Opencart.xml&apos;" description="Rename resource &apos;NewFile.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/pom/NewFile.xml" name="POM_Opencart.xml" stamp="1622681380924" updateReferences="true"/>
+</session>

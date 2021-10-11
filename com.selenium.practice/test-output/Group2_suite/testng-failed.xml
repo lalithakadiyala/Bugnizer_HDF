@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Group2_suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="extent_base.Extentreport_base"/>
+  </listeners>
+  <test thread-count="5" name="Group2_test(failed)">
+    <classes>
+      <class name="Group1.Group2Method">
+        <methods>
+          <include name="userName" invocation-numbers="0"/>
+          <include name="img_Displayed"/>
+          <include name="teardown"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- Group1.Group2Method -->
+    </classes>
+  </test> <!-- Group2_test(failed) -->
+</suite> <!-- Failed suite [Group2_suite] -->

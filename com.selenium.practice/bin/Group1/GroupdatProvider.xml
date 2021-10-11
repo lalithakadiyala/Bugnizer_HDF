@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Group_Dataprovider">
+
+<test name="Group test">
+<parameter name="Browser" value="Chrome"/>
+<groups>>
+<run>
+<include name="da">
+</include>
+
+</run>
+
+</groups>
+
+<classes>
+<class name="Group1.GroupMethod">
+</class>
+
+</classes>
+
+
+</test>
+
+
+
+</suite>

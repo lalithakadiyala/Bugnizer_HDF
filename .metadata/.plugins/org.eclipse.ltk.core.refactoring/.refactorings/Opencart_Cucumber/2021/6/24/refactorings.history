@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;pageobjects&apos; to &apos;pageObjects&apos;&#x0A;- Original project: &apos;Opencart_Cucumber&apos;&#x0A;- Original element: &apos;Opencart_Cucumber/src/test/java/pageobjects&apos;&#x0A;- Renamed element: &apos;Opencart_Cucumber/src/test/java/pageObjects&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;pageobjects&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;pageobjects" name="pageObjects" qualified="false" references="true" stamp="1623195023254" textual="false" version="1.0"/>
+</session>

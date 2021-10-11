@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 7 elements from project &apos;Mypractice_Opencart&apos;&#x0A;- Original project: &apos;Mypractice_Opencart&apos;&#x0A;- Original elements:&#x0A;     automation.log&#x0A;     automation-2021-06-28.log&#x0A;     automation-2021-06-29.log&#x0A;     automation-2021-07-22.log&#x0A;     automation-2021-07-26.log&#x0A;     automation-2021-07-28.log&#x0A;     automation logs" description="Delete elements" element1="logs/automation-2021-06-29.log" element2="logs/automation-2021-06-28.log" element3="logs/automation-2021-07-26.log" element4="logs/automation-2021-07-28.log" element5="logs/automation.log" element6="logs/automation-2021-07-22.log" element7="logs/automation logs" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="7" stamp="1627519621926" subPackages="false" version="1.0"/>
+</session>
